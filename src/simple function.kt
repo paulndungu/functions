@@ -3,7 +3,7 @@ fun addition(n:Int,n1:Int,n2:Double): Double {
     var addition=n+n1+n2
     return addition
 }
-fun show(word:String="this is gonna be a sunny day"):Unit{
+fun show(word: String ="this is gonna be a sunny day"):Unit{
 
     println("$word")
 }
